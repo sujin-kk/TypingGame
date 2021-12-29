@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\sjoo\source\repos\2019C타자게임PR\2019C타자게임PR\main.c(49,15): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  2019C타자게임PR.vcxproj -> C:\Users\sjoo\source\repos\2019C타자게임PR\Debug\2019C타자게임PR.exe
